@@ -1,4 +1,4 @@
-# vision-based-dirt-detection
+
 
 # Vision-Based Dirt Detection using Computer Vision
 
